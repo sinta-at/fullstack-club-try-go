@@ -26,26 +26,26 @@ You can call the two provided endpoints with base URL `http://localhost:80` with
 
 ### Web browser
 
-![/hello in web browser](browser-hello.png)
+![/hello in web browser](/readme-assets/browser-hello.png)
 
-![/foobar in web browser](browser-json.png)
+![/foobar in web browser](/readme-assets/browser-json.png)
 
 ### curl
 
 [curl](https://curl.se/) is a command line tool that includes a HTTP client
 
-![/hello in curl](curl-hello-response.png)
+![/hello in curl](/readme-assets/curl-hello-response.png)
 
-![/foobar in curl](curl-json-response.png)
+![/foobar in curl](/readme-assets/curl-json-response.png)
 
 ### Postman
 
 [Postman](https://www.postman.com/) is an API platform for building and using APIs
 
-![/hello response body in Postman](postman-hello-response-body.png)
+![/hello response body in Postman](/readme-assets/postman-hello-response-body.png)
 
-![/hello response headers in Postman](postman-hello-response-headers.png)
+![/hello response headers in Postman](/readme-assets/postman-hello-response-headers.png)
 
-![/foobar response body in Postman](postman-json-response-body.png)
+![/foobar response body in Postman](/readme-assets/postman-json-response-body.png)
 
-![/foobar response headers in Postman](postman-json-response-headers.png)
+![/foobar response headers in Postman](/readme-assets/postman-json-response-headers.png)
