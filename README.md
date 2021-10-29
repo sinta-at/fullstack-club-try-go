@@ -44,8 +44,8 @@ You can call the two provided endpoints with base URL `http://localhost:80` with
 
 ![/hello response body in Postman](/readme-assets/postman-hello-response-body.png)
 
-![/hello response headers in Postman](/readme-assets/postman-hello-response-headers.png)
+![/hello response headers in Postman](/readme-assets/postman-hello-response-header.png)
 
 ![/foobar response body in Postman](/readme-assets/postman-json-response-body.png)
 
-![/foobar response headers in Postman](/readme-assets/postman-json-response-headers.png)
+![/foobar response headers in Postman](/readme-assets/postman-json-response-header.png)
